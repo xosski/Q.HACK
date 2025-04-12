@@ -34,6 +34,7 @@ Modules:
 
     • EmoThreatEngine.py – logs vibrational field stress and outputs heuristic predictive waveforms
 
+    • QHACK_Vibrational_Acceleration_Model_Resonance_Field_Study - This one simulates what happens when space sings. You’re not moving particles; you’re conducting them.
 ⚠️ Disclaimer:
 This is bleeding edge (and possibly bleeding reality) research. Most of the concepts here are theoretical, some are memetic, and a few are prophetic. Interpret with caution and/or divinity.
 💫 Why "Banana"?
